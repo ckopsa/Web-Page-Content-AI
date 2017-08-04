@@ -19,3 +19,4 @@
 ** How to Contribute
    Currently a Trello board is being used for Kanban, tasks will be
    added/tracked/updated there.
+   [[https://trello.com/b/iEriamNE][Link to Trello]]
